@@ -1,0 +1,1 @@
+DEFAULT_SYSTEM_PROMPT="Hello, I am a prompt"
